@@ -1,0 +1,8 @@
+{
+  "name": "frontend-skills",
+  "version": "1.0.0",
+  "description": "Frontend skills for Claude: project setup, React + TypeScript, Tailwind CSS v4, accessibility, browser testing with screenshots, performance — plus Anthropic's frontend-design, web-artifacts-builder and theme-factory.",
+  "author": { "name": "Alive-oxotnik" },
+  "repository": "https://github.com/Alive-oxotnik/-",
+  "keywords": ["frontend", "react", "typescript", "tailwind", "accessibility", "playwright", "performance", "design"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "oxotnik-skills",
+  "owner": {
+    "name": "Alive-oxotnik"
+  },
+  "description": "Скиллы Claude для фронтенда / Claude skills for frontend development",
+  "plugins": [
+    {
+      "name": "frontend-skills",
+      "source": "./",
+      "description": "Frontend skills for Claude: project setup, React + TypeScript, Tailwind CSS v4, accessibility, browser testing with screenshots, performance — plus Anthropic's frontend-design, web-artifacts-builder and theme-factory.",
+      "version": "1.0.0",
+      "category": "development",
+      "keywords": [
+        "frontend",
+        "react",
+        "typescript",
+        "tailwind",
+        "accessibility",
+        "playwright",
+        "performance",
+        "design"
+      ]
+    }
+  ]
+}
